@@ -42,7 +42,7 @@ lib/
 2. **Installation**
    ```bash
    # Clone the repository
-   git clone [repository-url]
+   git clone https://github.com/OktayMelihGul/konya_city_guide
 
    # Install dependencies
    flutter pub get
